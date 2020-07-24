@@ -132,3 +132,7 @@ dmypy.json
 data/train.csv
 data/test.csv
 *.pth
+
+#files related to virtualenv
+bin/
+pyvenv.cfg
